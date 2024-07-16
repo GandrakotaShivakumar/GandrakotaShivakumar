@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning Full Stack Development
   
-- 💞️ I’m looking to collaborate on
+- 🤝 I’m looking to collaborate on
 >Software Development Projects
 >Web Development Projects
 >Python Programming Initiatives
